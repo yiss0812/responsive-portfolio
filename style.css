@@ -1,0 +1,52 @@
+
+ body{
+    background-color:#a1d1cf;
+    margin: 10%;
+    padding: 0; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    line-height: 115%;
+}
+
+header {
+    background-color: lightslategray;
+    margin: 5%;
+    
+    }
+
+#name {
+    background-color: #4aaaa5;
+    width: 30%;
+    margin: 10px;
+}
+
+p { 
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10%;
+    font-size: 14px;
+}
+
+.inline {
+    display: inline-block;
+
+}
+#contact-info {
+    width: 60%;
+    float: right;
+}
+
+img {
+    width: 200px;
+    display: inline-block;
+    margin-right: 3%;
+    float: left;
+}
+.links {
+    float: right;
+}
+.my-links {
+    float: right;
+    margin-right: 18%;
+    margin: 0;
+    padding-top: 0;
+ }
