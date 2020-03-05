@@ -1,0 +1,20 @@
+.row{
+    background-color: lightslategrey;
+    width: 900px;
+    height: 400px;
+    margin: 10%;
+    border: 2px solid black;
+    display: flex;
+    
+}
+
+section{
+    background-color:lightgrey;
+    width: 700px;
+    height: 100px;
+    margin-left: 20%;
+    text-align: center;
+    margin-top: 6%;
+    border: 2px solid black;
+
+}
